@@ -1,4 +1,4 @@
-# Flowtron对比实验
+# FullSubNet+: A Framework With Channel Attention On Multiple Input Spectrograms For Speech Enhancement
 
 ## 语音变化程度控制对比实验
 

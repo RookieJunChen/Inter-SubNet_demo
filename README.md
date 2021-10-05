@@ -1,4 +1,4 @@
 # Graduation Design Showcase
 
-Please visit https://hit-thusz-rookiecj.github.io/myflowtron.github.io/
+Please visit [https://hit-thusz-rookiecj.github.io/fullsubnet-plus.github.io/](https://hit-thusz-rookiecj.github.io/fullsubnet-plus.github.io/)
 
