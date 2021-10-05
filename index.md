@@ -1,14 +1,18 @@
-# FullSubNet+: A Framework With Channel Attention On Multiple Input Spectrograms For Speech Enhancement
+## Abstract
 
-## 语音变化程度控制对比实验
+Previously proposed FullSubNet has achieved outstanding performance in Deep Noise Suppression (DNS) Challenge and thus received great interests. Unfortunately, it still has shortcomings such as input-output mismatch and coarse processing for frequency band.
+In this paper, we propose an extended real-time single-channel speech enhancement framework called FullSubNet+ with following significant improvements. First, to make full use of the phase information in noisy speech, our model takes all the magnitude, real and imaginary spectrograms as inputs. Then, we design a multi-scale time sensitive channel attention (MulCA) module which adopts multi-scale convolution kernel and channel attention mechanism to have different emphases on different frequency bands. Moreover, by replacing the long short-time momery (LSTM) layers in original full-band model with stacked temporal convolutional network (TCN) blocks, we design a more efficient full-band module called full-band extractor. 
+The experimental results in DNS Challenge dataset show the superior performance of our FullSubNet, which reach the state-of-the-art performance and outperform other existing speech enhancement approaches.
 
-### 合成样例展示
 
-| **Model** |      **Condition**      |                          **Audio**                           |                     **Mel-spectrogram**                      |
-| :-------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Flowtron  |      *sigma = 0.0*      | <audio controls><source src="./data/experiment1/Audio/flowtron_0.0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./data/experiment1/Mel-spectrogram/Flowtron_0.0.png" alt="flowtron_0.0" style="zoom: 40%;" /> |
-| Flowtron  |      *sigma = 0.5*      | <audio controls><source src="./data/experiment1/Audio/flowtron_0.5.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./data/experiment1/Mel-spectrogram/Flowtron_0.5.png" alt="flowtron_0.5" style="zoom: 40%;" /> |
-| Flowtron  |      *sigma = 1.0*      | <audio controls><source src="./data/experiment1/Audio/flowtron.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./data/experiment1/Mel-spectrogram/flowtron.png" alt="flowtron_1.0" style="zoom: 52%;" /> |
+
+## Without Reverberation
+
+| **Model** | **Condition**           |                          **Audio**                           |                     **Mel-spectrogram**                      |
+| :-------: | ----------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Flowtron  | *sigma = 0.0*           | <audio controls><source src="./data/experiment1/Audio/flowtron_0.0.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./data/experiment1/Mel-spectrogram/Flowtron_0.0.png" alt="flowtron_0.0" style="zoom: 40%;" /> |
+| Flowtron  | *sigma = 0.5*           | <audio controls><source src="./data/experiment1/Audio/flowtron_0.5.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./data/experiment1/Mel-spectrogram/Flowtron_0.5.png" alt="flowtron_0.5" style="zoom: 40%;" /> |
+| Flowtron  | *sigma = 1.0*           | <audio controls><source src="./data/experiment1/Audio/flowtron.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./data/experiment1/Mel-spectrogram/flowtron.png" alt="flowtron_1.0" style="zoom: 52%;" /> |
 | Tacotron2 | *p in {0.45,0.5,0.55 }* | <audio controls><source src="./data/experiment1/Audio/tacotron2.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <img src="./data/experiment1/Mel-spectrogram/Tacotron2.png" alt="flowtron_0.5" style="zoom: 40%;" /> |
 
 
