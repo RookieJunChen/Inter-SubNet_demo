@@ -17,16 +17,16 @@ The experimental results in DNS Challenge dataset show the superior performance 
 |                          **case 1**                          |
 | :----------------------------------------------------------: |
 |                          **Noisy**                           |
-| **<img src="./data/with_reverb/example1/noisy.png" alt="flowtron_0.0" style="zoom: 120%;" />** |
+| **<img src="./data/with_reverb/example1/noisy.png" alt="flowtron_0.0" style="zoom: 100%;" />** |
 | <audio controls><source src="./data/with_reverb/example1/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 |                        **FullSubNet**                        |
-| **<img src="./data/with_reverb/example1/fullsubnet.png" alt="flowtron_0.0" style="zoom: 120%;" />** |
+| **<img src="./data/with_reverb/example1/fullsubnet.png" alt="flowtron_0.0" style="zoom: 100%;" />** |
 | <audio controls><source src="./data/with_reverb/example1/fullsubnet.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 |                       **FullSubNet+**                        |
-| **<img src="./data/with_reverb/example1/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 120%;" />** |
+| **<img src="./data/with_reverb/example1/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 100%;" />** |
 | <audio controls><source src="./data/with_reverb/example1/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 |                          **Clean**                           |
-| **<img src="./data/with_reverb/example1/clean.png" alt="flowtron_0.0" style="zoom: 120%;" />** |
+| **<img src="./data/with_reverb/example1/clean.png" alt="flowtron_0.0" style="zoom: 100%;" />** |
 | <audio controls><source src="./data/with_reverb/example1/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
 
