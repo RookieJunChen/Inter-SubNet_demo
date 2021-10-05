@@ -68,7 +68,8 @@ The experimental results in DNS Challenge dataset show the superior performance 
 | **<img src="./data/no_reverb/example2/clean.png" alt="flowtron_0.0" style="zoom: 100%;" />** |
 | <audio controls><source src="./data/no_reverb/example2/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
-<h3 id = "5">case 3</h2>
+<h3 id = "5">case 3</h3>
+
 
 |                          **case 3**                          |
 | :----------------------------------------------------------: |
