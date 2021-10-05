@@ -10,7 +10,7 @@ The experimental results in DNS Challenge dataset show the superior performance 
 
 ## Without Reverberation
 
-#### case 1
+### case 1
 
 |                          **case 1**                          |
 | :----------------------------------------------------------: |
@@ -27,7 +27,7 @@ The experimental results in DNS Challenge dataset show the superior performance 
 | **<img src="./data/no_reverb/example1/clean.png" alt="flowtron_0.0" style="zoom: 100%;" />** |
 | <audio controls><source src="./data/no_reverb/example1/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
-#### case 2
+### case 2
 
 |                          **case 2**                          |
 | :----------------------------------------------------------: |
@@ -44,7 +44,7 @@ The experimental results in DNS Challenge dataset show the superior performance 
 | **<img src="./data/no_reverb/example2/clean.png" alt="flowtron_0.0" style="zoom: 100%;" />** |
 | <audio controls><source src="./data/no_reverb/example2/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
-#### case 3
+### case 3
 
 |                          **case 3**                          |
 | :----------------------------------------------------------: |
@@ -63,7 +63,7 @@ The experimental results in DNS Challenge dataset show the superior performance 
 
 
 
-#### case 4
+### case 4
 
 |                          **case 4**                          |
 | :----------------------------------------------------------: |
@@ -84,7 +84,7 @@ The experimental results in DNS Challenge dataset show the superior performance 
 
 ## With Reverberation
 
-#### case 1
+### case 1
 
 |                          **case 1**                          |
 | :----------------------------------------------------------: |
@@ -101,7 +101,7 @@ The experimental results in DNS Challenge dataset show the superior performance 
 | **<img src="./data/with_reverb/example1/clean.png" alt="flowtron_0.0" style="zoom: 100%;" />** |
 | <audio controls><source src="./data/with_reverb/example1/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
-#### case 2
+### case 2
 
 |                          **case 2**                          |
 | :----------------------------------------------------------: |
@@ -118,7 +118,7 @@ The experimental results in DNS Challenge dataset show the superior performance 
 | **<img src="./data/with_reverb/example2/clean.png" alt="flowtron_0.0" style="zoom: 100%;" />** |
 | <audio controls><source src="./data/with_reverb/example2/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
-#### case 3
+### case 3
 
 |                          **case 3**                          |
 | :----------------------------------------------------------: |
@@ -135,7 +135,7 @@ The experimental results in DNS Challenge dataset show the superior performance 
 | **<img src="./data/with_reverb/example3/clean.png" alt="flowtron_0.0" style="zoom: 100%;" />** |
 | <audio controls><source src="./data/with_reverb/example3/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
-#### case 4
+### case 4
 
 |                          **case 4**                          |
 | :----------------------------------------------------------: |
@@ -151,3 +151,4 @@ The experimental results in DNS Challenge dataset show the superior performance 
 |                          **Clean**                           |
 | **<img src="./data/with_reverb/example4/clean.png" alt="flowtron_0.0" style="zoom: 100%;" />** |
 | <audio controls><source src="./data/with_reverb/example4/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+
