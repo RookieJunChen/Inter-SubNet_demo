@@ -4,8 +4,6 @@
 
 
 
-## [Abstract](#1)
-
 ## [With Reverberation](#2)
 
 ### [case1](#3)
