@@ -1,4 +1,4 @@
-# *FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement*
+# FullSubNet+: Channel Attention FullSubNet with Complex Spectrograms for Speech Enhancement
 
 ### *Jun Chen, Zilin Wang, Deyi Tuo, Zhiyong Wu, Shiyin Kang, Helen Meng*
 
