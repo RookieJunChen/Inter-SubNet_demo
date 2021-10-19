@@ -8,30 +8,6 @@ Previously proposed FullSubNet has achieved outstanding performance in Deep Nois
 
 
 
-## [With Reverberation](#2)
-
-### [case1](#3)
-
-### [case2](#4)
-
-### [case3](#5)
-
-### [case4](#6)
-
-## [Without Reverberation](#7)
-
-### [case1](#8)
-
-### [case2](#9)
-
-### [case3](#10)
-
-### [case4](#11)
-
-
-
-
-
 <h2 id = "2">Without Reverberation</h2>
 
 <h3 id = "3"> case 1</h3>
