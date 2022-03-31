@@ -70,7 +70,7 @@ FullSubNet+ has achieved outstanding performance on Deep Noise Suppression (DNS)
 
 
 
-## With Reverberation
+## Without Reverberation
 
 <h3 id = "3"> case 1</h3>
 
