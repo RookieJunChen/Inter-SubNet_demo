@@ -16,11 +16,9 @@ FullSubNet+ has achieved outstanding performance on Deep Noise Suppression (DNS)
 
 |                          **case 1**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                          **Noisy**                           |                       **FullSubNet+**                        |
-| **<img src="./data/with_reverb/example275/noisy.png" alt="flowtron_0.0" style="zoom: 80%;" />** | <img src="./data/with_reverb/example275/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
+| **Noisy** <img src="./data/with_reverb/example275/noisy.png" alt="flowtron_0.0" style="zoom: 80%;" /> | **FullSubNet+**<img src="./data/with_reverb/example275/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
 | <audio controls><source src="./data/with_reverb/example275/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/with_reverb/example275/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-|                       **FullSubNet++**                       |                          **Clean**                           |
-| **<img src="./data/with_reverb/example275/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" />** | **<img src="./data/with_reverb/example275/clean.png" alt="flowtron_0.0" style="zoom: 80%;" />** |
+| **FullSubNet++**<img src="./data/with_reverb/example275/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" /> | **Clean**<img src="./data/with_reverb/example275/clean.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
 | <audio controls><source src="./data/with_reverb/example275/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/with_reverb/example275/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
 
