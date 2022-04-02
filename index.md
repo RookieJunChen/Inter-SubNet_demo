@@ -16,12 +16,10 @@ FullSubNet+ has achieved outstanding performance on Deep Noise Suppression (DNS)
 
 |                          **case 1**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                          **Noisy**                           |                       **FullSubNet+**                        |
-| **<img src="./data/with_reverb/example275/noisy.png" alt="flowtron_0.0" style="zoom: 80%;" />** | <img src="./data/with_reverb/example275/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| <audio controls><source src="./data/with_reverb/example275/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/with_reverb/example275/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-|                       **FullSubNet++**                       |                          **Clean**                           |
-| **<img src="./data/with_reverb/example275/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" />** | **<img src="./data/with_reverb/example275/clean.png" alt="flowtron_0.0" style="zoom: 80%;" />** |
-| <audio controls><source src="./data/with_reverb/example275/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/with_reverb/example275/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **Noisy** <br><audio controls><source src="./data/with_reverb/example275/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **FullSubNet+** <br>  <audio controls><source src="./data/with_reverb/example275/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| <img src="./data/with_reverb/example275/noisy.png" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/with_reverb/example275/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
+| **FullSubNet++**<br>  <audio controls><source src="./data/with_reverb/example275/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean** <br> <audio controls><source src="./data/with_reverb/example275/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| <img src="./data/with_reverb/example275/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/with_reverb/example275/clean.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
 
 
 
@@ -29,12 +27,10 @@ FullSubNet+ has achieved outstanding performance on Deep Noise Suppression (DNS)
 
 |                          **case 2**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                          **Noisy**                           |                       **FullSubNet+**                        |
+| **Noisy** <br><audio controls><source src="./data/with_reverb/example291/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **FullSubNet+**<br><audio controls><source src="./data/with_reverb/example291/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **<img src="./data/with_reverb/example291/noisy.png" alt="flowtron_0.0" style="zoom: 80%;" />** | <img src="./data/with_reverb/example291/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| <audio controls><source src="./data/with_reverb/example291/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/with_reverb/example291/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-|                       **FullSubNet++**                       |                          **Clean**                           |
-| **<img src="./data/with_reverb/example291/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" />** | **<img src="./data/with_reverb/example291/clean.png" alt="flowtron_0.0" style="zoom: 80%;" />** |
-| <audio controls><source src="./data/with_reverb/example291/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/with_reverb/example291/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **FullSubNet++**<br><audio controls><source src="./data/with_reverb/example291/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**<br><audio controls><source src="./data/with_reverb/example291/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| <img src="./data/with_reverb/example291/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/with_reverb/example291/clean.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
 
 
 
@@ -42,12 +38,10 @@ FullSubNet+ has achieved outstanding performance on Deep Noise Suppression (DNS)
 
 |                          **case 3**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                          **Noisy**                           |                       **FullSubNet+**                        |
+| **Noisy**<br><audio controls><source src="./data/with_reverb/example5/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **FullSubNet+**<br><audio controls><source src="./data/with_reverb/example5/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **<img src="./data/with_reverb/example5/noisy.png" alt="flowtron_0.0" style="zoom: 80%;" />** | <img src="./data/with_reverb/example5/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| <audio controls><source src="./data/with_reverb/example5/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/with_reverb/example5/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-|                       **FullSubNet++**                       |                          **Clean**                           |
+| **FullSubNet++**<br><audio controls><source src="./data/with_reverb/example5/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**<br><audio controls><source src="./data/with_reverb/example5/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **<img src="./data/with_reverb/example5/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" />** | **<img src="./data/with_reverb/example5/clean.png" alt="flowtron_0.0" style="zoom: 80%;" />** |
-| <audio controls><source src="./data/with_reverb/example5/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/with_reverb/example5/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
 
 
@@ -55,12 +49,10 @@ FullSubNet+ has achieved outstanding performance on Deep Noise Suppression (DNS)
 
 |                          **case 4**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                          **Noisy**                           |                       **FullSubNet+**                        |
+| **Noisy**<br><audio controls><source src="./data/with_reverb/example63/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **FullSubNet+**<br><audio controls><source src="./data/with_reverb/example63/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **<img src="./data/with_reverb/example63/noisy.png" alt="flowtron_0.0" style="zoom: 80%;" />** | <img src="./data/with_reverb/example63/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| <audio controls><source src="./data/with_reverb/example63/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/with_reverb/example63/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-|                       **FullSubNet++**                       |                          **Clean**                           |
+| **FullSubNet++**<br><audio controls><source src="./data/with_reverb/example63/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**<br><audio controls><source src="./data/with_reverb/example63/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **<img src="./data/with_reverb/example63/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" />** | **<img src="./data/with_reverb/example63/clean.png" alt="flowtron_0.0" style="zoom: 80%;" />** |
-| <audio controls><source src="./data/with_reverb/example63/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/with_reverb/example63/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
 
 
@@ -76,12 +68,10 @@ FullSubNet+ has achieved outstanding performance on Deep Noise Suppression (DNS)
 
 |                          **case 1**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                          **Noisy**                           |                       **FullSubNet+**                        |
+| **Noisy**<br><audio controls><source src="./data/no_reverb/example112/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **FullSubNet+**<br><audio controls><source src="./data/no_reverb/example112/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **<img src="./data/no_reverb/example112/noisy.png" alt="flowtron_0.0" style="zoom: 80%;" />** | <img src="./data/no_reverb/example112/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| <audio controls><source src="./data/no_reverb/example112/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/no_reverb/example112/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-|                       **FullSubNet++**                       |                          **Clean**                           |
+| **FullSubNet++**<br><audio controls><source src="./data/no_reverb/example112/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**<br><audio controls><source src="./data/no_reverb/example112/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **<img src="./data/no_reverb/example112/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" />** | **<img src="./data/no_reverb/example112/clean.png" alt="flowtron_0.0" style="zoom: 80%;" />** |
-| <audio controls><source src="./data/no_reverb/example112/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/no_reverb/example112/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
 
 
@@ -89,12 +79,10 @@ FullSubNet+ has achieved outstanding performance on Deep Noise Suppression (DNS)
 
 |                          **case 2**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                          **Noisy**                           |                       **FullSubNet+**                        |
+| **Noisy**<br><audio controls><source src="./data/no_reverb/example163/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **FullSubNet+**<br><audio controls><source src="./data/no_reverb/example163/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **<img src="./data/no_reverb/example163/noisy.png" alt="flowtron_0.0" style="zoom: 80%;" />** | <img src="./data/no_reverb/example163/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| <audio controls><source src="./data/no_reverb/example163/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/no_reverb/example163/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-|                       **FullSubNet++**                       |                          **Clean**                           |
-| **<img src="./data/no_reverb/example163/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" />** | **<img src="./data/no_reverb/example163/clean.png" alt="flowtron_0.0" style="zoom: 80%;" />** |
-| <audio controls><source src="./data/no_reverb/example163/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/no_reverb/example163/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **FullSubNet++**<br><audio controls><source src="./data/no_reverb/example163/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**<br><audio controls><source src="./data/no_reverb/example163/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| <img src="./data/no_reverb/example163/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/no_reverb/example163/clean.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
 
 
 
@@ -102,12 +90,10 @@ FullSubNet+ has achieved outstanding performance on Deep Noise Suppression (DNS)
 
 |                          **case 3**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                          **Noisy**                           |                       **FullSubNet+**                        |
+| **Noisy**<br><audio controls><source src="./data/no_reverb/example82/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **FullSubNet+**<br><audio controls><source src="./data/no_reverb/example82/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **<img src="./data/no_reverb/example82/noisy.png" alt="flowtron_0.0" style="zoom: 80%;" />** | <img src="./data/no_reverb/example82/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| <audio controls><source src="./data/no_reverb/example82/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/no_reverb/example82/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-|                       **FullSubNet++**                       |                          **Clean**                           |
-| **<img src="./data/no_reverb/example82/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" />** | **<img src="./data/no_reverb/example82/clean.png" alt="flowtron_0.0" style="zoom: 80%;" />** |
-| <audio controls><source src="./data/no_reverb/example82/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/no_reverb/example82/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **FullSubNet++**<br><audio controls><source src="./data/no_reverb/example82/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**<br><audio controls><source src="./data/no_reverb/example82/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| <img src="./data/no_reverb/example82/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" /> | **<img src="./data/no_reverb/example82/clean.png" alt="flowtron_0.0" style="zoom: 80%;" />** |
 
 
 
@@ -117,10 +103,8 @@ FullSubNet+ has achieved outstanding performance on Deep Noise Suppression (DNS)
 
 |                          **case 4**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                          **Noisy**                           |                       **FullSubNet+**                        |
+| **Noisy**<br><audio controls><source src="./data/no_reverb/example63/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **FullSubNet+**<br><audio controls><source src="./data/no_reverb/example63/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | **<img src="./data/no_reverb/example63/noisy.png" alt="flowtron_0.0" style="zoom: 80%;" />** | <img src="./data/no_reverb/example63/fullsubnet+.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| <audio controls><source src="./data/no_reverb/example63/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/no_reverb/example63/fullsubnet+.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-|                       **FullSubNet++**                       |                          **Clean**                           |
-| **<img src="./data/no_reverb/example63/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" />** | **<img src="./data/no_reverb/example63/clean.png" alt="flowtron_0.0" style="zoom: 80%;" />** |
-| <audio controls><source src="./data/no_reverb/example63/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="./data/no_reverb/example63/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **FullSubNet++**<br><audio controls><source src="./data/no_reverb/example63/fullsubnet++.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**<br><audio controls><source src="./data/no_reverb/example63/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| <img src="./data/no_reverb/example63/fullsubnet++.png" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/no_reverb/example63/clean.png" alt="flowtron_0.0" style="zoom: 80%;" /> |
 
