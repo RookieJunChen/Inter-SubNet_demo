@@ -36,9 +36,9 @@
 
 |                          **case 3**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **Noisy**  <audio controls><source src="./data/no_reverb/example38/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**   <audio controls><source src="./data/no_reverb/example38/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **Noisy**<br/>  <audio controls><source src="./data/no_reverb/example38/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**<br/>   <audio controls><source src="./data/no_reverb/example38/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/no_reverb/example38/noisy.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/no_reverb/example38/Subband_model.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| **Inter-SubNet**  <audio controls><source src="./data/no_reverb/example38/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <audio controls><source src="./data/no_reverb/example38/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **Inter-SubNet**  <br/><audio controls><source src="./data/no_reverb/example38/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <br/><audio controls><source src="./data/no_reverb/example38/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/no_reverb/example38/Inter_SubNet.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/no_reverb/example38/clean.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> |
 
 
@@ -47,9 +47,9 @@
 
 |                          **case 4**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **Noisy**  <audio controls><source src="./data/no_reverb/example213/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**   <audio controls><source src="./data/no_reverb/example213/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **Noisy**  <br/><audio controls><source src="./data/no_reverb/example213/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**  <br/><audio controls><source src="./data/no_reverb/example213/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/no_reverb/example213/noisy.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/no_reverb/example213/Subband_model.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| **Inter-SubNet**  <audio controls><source src="./data/no_reverb/example213/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <audio controls><source src="./data/no_reverb/example213/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **Inter-SubNet**  <br/><audio controls><source src="./data/no_reverb/example213/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <br/><audio controls><source src="./data/no_reverb/example213/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/no_reverb/example213/Inter_SubNet.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/no_reverb/example213/clean.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> |
 
 
@@ -86,9 +86,9 @@
 
 |                          **case 3**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **Noisy**  <audio controls><source src="./data/with_reverb/example245/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**   <audio controls><source src="./data/with_reverb/example245/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **Noisy**  <br/><audio controls><source src="./data/with_reverb/example245/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**   <br/><audio controls><source src="./data/with_reverb/example245/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/with_reverb/example245/noisy.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/with_reverb/example245/Subband_model.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| **Inter-SubNet**  <audio controls><source src="./data/with_reverb/example245/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <audio controls><source src="./data/with_reverb/example245/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **Inter-SubNet**  <br/><audio controls><source src="./data/with_reverb/example245/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <br/><audio controls><source src="./data/with_reverb/example245/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/with_reverb/example245/Inter_SubNet.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/with_reverb/example245/clean.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> |
 
 
@@ -97,7 +97,7 @@
 
 |                          **case 4**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **Noisy**  <audio controls><source src="./data/with_reverb/example206/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**   <audio controls><source src="./data/with_reverb/example206/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **Noisy**  <br/><audio controls><source src="./data/with_reverb/example206/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**   <br/><audio controls><source src="./data/with_reverb/example206/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/with_reverb/example206/noisy.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/with_reverb/example206/Subband_model.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> |
-| **Inter-SubNet**  <audio controls><source src="./data/with_reverb/example206/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <audio controls><source src="./data/with_reverb/example206/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| **Inter-SubNet**  <br/><audio controls><source src="./data/with_reverb/example206/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <br/><audio controls><source src="./data/with_reverb/example206/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 | <img src="./data/with_reverb/example206/Inter_SubNet.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> | <img src="./data/with_reverb/example206/clean.jpg" alt="flowtron_0.0" style="zoom: 80%;" /> |
