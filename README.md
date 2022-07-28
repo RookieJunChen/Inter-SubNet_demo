@@ -1,2 +1,2 @@
-Please visit [https://hit-thusz-rookiecj.github.io/sc-fullsubnet-plus.github.io/](https://hit-thusz-rookiecj.github.io/sc-fullsubnet-plus.github.io/)
+Please visit [https://hit-thusz-rookiecj.github.io/Inter-SubNet/](https://hit-thusz-rookiecj.github.io/Inter-SubNet/)
 
