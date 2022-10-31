@@ -11,8 +11,8 @@ Subband-based approaches process subbands in parallel through the model with sha
 	<script id="MathJax-script" async
         src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-    <img style="zoom: 80%;" 
-    src="./data/fig/total_arch.jpg"  width="130%">
+    <img style="zoom: 100%;" 
+    src="./data/fig/total_arch.jpg">
     <br>
     <div class="caption" style="max-width: 1000px;"> 
     Fig.1: The general schematic of the proposed Inter-SubNet, where "SIL block 1" and "SIL block 2" refer to the first and second SubInter-LSTM block respectively. The "G-norm" denotes group normalization. The Inter-SubNet \(G_{is}\) mainly consists of two stacked SIL blocks and one fully-connected layer. Taking the subband units \(\{\mathbf{b}_i\}_{i=1}^F\) as input, the model \(G_{is}\) generates the final output cIRM \(\mathbf{M}^{r}\) and \(\mathbf{M}^{i}\).
