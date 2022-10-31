@@ -11,8 +11,7 @@ Subband-based approaches process subbands in parallel through the model with sha
 	<script id="MathJax-script" async
         src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="zoom: 80%;" 
     src="./data/fig/total_arch.jpg"  width="100%">
     <br>
     <div class="caption" style="max-width: 1000px;"> 
