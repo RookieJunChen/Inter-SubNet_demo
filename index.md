@@ -29,9 +29,9 @@ Subband-based approaches process subbands in parallel through the model with sha
 |                          **case 1**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Noisy** <br><audio controls><source src="./data/no_reverb/example245/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model** <br>  <audio controls><source src="./data/no_reverb/example245/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/no_reverb/example245/noisy.jpg" alt="noisy" style="zoom: 80%;" /> | <img src="./data/no_reverb/example245/Subband_model.jpg" alt="baseline" style="zoom: 80%;" /> |
+| <img src="./data/no_reverb/example245/noisy.jpg" alt="noisy" width="100%" /> | <img src="./data/no_reverb/example245/Subband_model.jpg" alt="baseline" width="100%" /> |
 | **Inter-SubNet**<br>  <audio controls><source src="./data/no_reverb/example245/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean** <br> <audio controls><source src="./data/no_reverb/example245/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/no_reverb/example245/Inter_SubNet.jpg" alt="proposed" style="zoom: 80%;" /> | <img src="./data/no_reverb/example245/clean.jpg" alt="clean" style="zoom: 80%;" /> |
+| <img src="./data/no_reverb/example245/Inter_SubNet.jpg" alt="proposed" width="100%" /> | <img src="./data/no_reverb/example245/clean.jpg" alt="clean" width="100%" /> |
 
 
 
@@ -40,9 +40,9 @@ Subband-based approaches process subbands in parallel through the model with sha
 |                          **case 2**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Noisy** <br><audio controls><source src="./data/no_reverb/example110/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model** <br>  <audio controls><source src="./data/no_reverb/example110/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/no_reverb/example110/noisy.jpg" alt="noisy" style="zoom: 80%;" /> | <img src="./data/no_reverb/example110/Subband_model.jpg" alt="baseline" style="zoom: 80%;" /> |
+| <img src="./data/no_reverb/example110/noisy.jpg" alt="noisy" width="100%" /> | <img src="./data/no_reverb/example110/Subband_model.jpg" alt="baseline" width="100%" /> |
 | **Inter-SubNet**<br>  <audio controls><source src="./data/no_reverb/example110/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean** <br> <audio controls><source src="./data/no_reverb/example110/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/no_reverb/example110/Inter_SubNet.jpg" alt="proposed" style="zoom: 80%;" /> | <img src="./data/no_reverb/example110/clean.jpg" alt="clean" style="zoom: 80%;" /> |
+| <img src="./data/no_reverb/example110/Inter_SubNet.jpg" alt="proposed" width="100%" /> | <img src="./data/no_reverb/example110/clean.jpg" alt="clean" width="100%" /> |
 
 
 
@@ -51,9 +51,9 @@ Subband-based approaches process subbands in parallel through the model with sha
 |                          **case 3**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Noisy**<br/>  <audio controls><source src="./data/no_reverb/example38/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**<br/>   <audio controls><source src="./data/no_reverb/example38/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/no_reverb/example38/noisy.jpg" alt="noisy" style="zoom: 80%;" /> | <img src="./data/no_reverb/example38/Subband_model.jpg" alt="baseline" style="zoom: 80%;" /> |
+| <img src="./data/no_reverb/example38/noisy.jpg" alt="noisy" width="100%" /> | <img src="./data/no_reverb/example38/Subband_model.jpg" alt="baseline" width="100%"/> |
 | **Inter-SubNet**  <br/><audio controls><source src="./data/no_reverb/example38/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <br/><audio controls><source src="./data/no_reverb/example38/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/no_reverb/example38/Inter_SubNet.jpg" alt="proposed" style="zoom: 80%;" /> | <img src="./data/no_reverb/example38/clean.jpg" alt="clean" style="zoom: 80%;" /> |
+| <img src="./data/no_reverb/example38/Inter_SubNet.jpg" alt="proposed" width="100%" /> | <img src="./data/no_reverb/example38/clean.jpg" alt="clean" width="100%" /> |
 
 
 
@@ -62,9 +62,9 @@ Subband-based approaches process subbands in parallel through the model with sha
 |                          **case 4**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Noisy**  <br/><audio controls><source src="./data/no_reverb/example213/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**  <br/><audio controls><source src="./data/no_reverb/example213/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/no_reverb/example213/noisy.jpg" alt="noisy" style="zoom: 80%;" /> | <img src="./data/no_reverb/example213/Subband_model.jpg" alt="baseline" style="zoom: 80%;" /> |
+| <img src="./data/no_reverb/example213/noisy.jpg" alt="noisy" width="100%" /> | <img src="./data/no_reverb/example213/Subband_model.jpg" alt="baseline" width="100%" /> |
 | **Inter-SubNet**  <br/><audio controls><source src="./data/no_reverb/example213/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <br/><audio controls><source src="./data/no_reverb/example213/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/no_reverb/example213/Inter_SubNet.jpg" alt="proposed" style="zoom: 80%;" /> | <img src="./data/no_reverb/example213/clean.jpg" alt="clean" style="zoom: 80%;" /> |
+| <img src="./data/no_reverb/example213/Inter_SubNet.jpg" alt="proposed" width="100%" /> | <img src="./data/no_reverb/example213/clean.jpg" alt="clean" width="100%" /> |
 
 
 
@@ -79,9 +79,9 @@ Subband-based approaches process subbands in parallel through the model with sha
 |                          **case 1**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Noisy** <br><audio controls><source src="./data/with_reverb/example38/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model** <br>  <audio controls><source src="./data/with_reverb/example38/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/with_reverb/example38/noisy.jpg" alt="noisy" style="zoom: 80%;" /> | <img src="./data/with_reverb/example38/Subband_model.jpg" alt="baseline" style="zoom: 80%;" /> |
+| <img src="./data/with_reverb/example38/noisy.jpg" alt="noisy" width="100%"/> | <img src="./data/with_reverb/example38/Subband_model.jpg" alt="baseline" width="100%"/> |
 | **Inter-SubNet**<br>  <audio controls><source src="./data/with_reverb/example38/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean** <br> <audio controls><source src="./data/with_reverb/example38/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/with_reverb/example38/Inter_SubNet.jpg" alt="proposed" style="zoom: 80%;" /> | <img src="./data/with_reverb/example38/clean.jpg" alt="clean" style="zoom: 80%;" /> |
+| <img src="./data/with_reverb/example38/Inter_SubNet.jpg" alt="proposed" width="100%"/> | <img src="./data/with_reverb/example38/clean.jpg" alt="clean" width="100%"/> |
 
 
 
@@ -90,9 +90,9 @@ Subband-based approaches process subbands in parallel through the model with sha
 |                          **case 2**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Noisy** <br><audio controls><source src="./data/with_reverb/example110/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model** <br>  <audio controls><source src="./data/with_reverb/example110/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/with_reverb/example110/noisy.jpg" alt="noisy" style="zoom: 80%;" /> | <img src="./data/with_reverb/example110/Subband_model.jpg" alt="baseline" style="zoom: 80%;" /> |
+| <img src="./data/with_reverb/example110/noisy.jpg" alt="noisy" width="100%" /> | <img src="./data/with_reverb/example110/Subband_model.jpg" alt="baseline" width="100%"/> |
 | **Inter-SubNet**<br>  <audio controls><source src="./data/with_reverb/example110/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean** <br> <audio controls><source src="./data/with_reverb/example110/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/with_reverb/example110/Inter_SubNet.jpg" alt="proposed" style="zoom: 80%;" /> | <img src="./data/with_reverb/example110/clean.jpg" alt="clean" style="zoom: 80%;" /> |
+| <img src="./data/with_reverb/example110/Inter_SubNet.jpg" alt="proposed" width="100%"/> | <img src="./data/with_reverb/example110/clean.jpg" alt="clean" width="100%"/> |
 
 
 
@@ -101,9 +101,9 @@ Subband-based approaches process subbands in parallel through the model with sha
 |                          **case 3**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Noisy**  <br/><audio controls><source src="./data/with_reverb/example245/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**   <br/><audio controls><source src="./data/with_reverb/example245/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/with_reverb/example245/noisy.jpg" alt="noisy" style="zoom: 80%;" /> | <img src="./data/with_reverb/example245/Subband_model.jpg" alt="baseline" style="zoom: 80%;" /> |
+| <img src="./data/with_reverb/example245/noisy.jpg" alt="noisy" width="100%"/> | <img src="./data/with_reverb/example245/Subband_model.jpg" alt="baseline" width="100%"/> |
 | **Inter-SubNet**  <br/><audio controls><source src="./data/with_reverb/example245/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <br/><audio controls><source src="./data/with_reverb/example245/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/with_reverb/example245/Inter_SubNet.jpg" alt="proposed" style="zoom: 80%;" /> | <img src="./data/with_reverb/example245/clean.jpg" alt="clean" style="zoom: 80%;" /> |
+| <img src="./data/with_reverb/example245/Inter_SubNet.jpg" alt="proposed" width="100%"/> | <img src="./data/with_reverb/example245/clean.jpg" alt="clean" width="100%"/> |
 
 
 
@@ -112,6 +112,6 @@ Subband-based approaches process subbands in parallel through the model with sha
 |                          **case 4**                          |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Noisy**  <br/><audio controls><source src="./data/with_reverb/example206/noisy.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Subband model**   <br/><audio controls><source src="./data/with_reverb/example206/Subband_model.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/with_reverb/example206/noisy.jpg" alt="noisy" style="zoom: 80%;" /> | <img src="./data/with_reverb/example206/Subband_model.jpg" alt="baseline" style="zoom: 80%;" /> |
+| <img src="./data/with_reverb/example206/noisy.jpg" alt="noisy" width="100%"/> | <img src="./data/with_reverb/example206/Subband_model.jpg" alt="baseline" width="100%"/> |
 | **Inter-SubNet**  <br/><audio controls><source src="./data/with_reverb/example206/Inter_SubNet.wav" type="audio/wav">Your browser does not support the audio element.</audio> | **Clean**  <br/><audio controls><source src="./data/with_reverb/example206/clean.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
-| <img src="./data/with_reverb/example206/Inter_SubNet.jpg" alt="proposed" style="zoom: 80%;" /> | <img src="./data/with_reverb/example206/clean.jpg" alt="clean" style="zoom: 80%;" /> |
+| <img src="./data/with_reverb/example206/Inter_SubNet.jpg" alt="proposed" width="100%"/> | <img src="./data/with_reverb/example206/clean.jpg" alt="clean" width="100%"/> |
